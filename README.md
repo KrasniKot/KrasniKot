@@ -2,8 +2,7 @@
 
 🚀 **Machine Learning Engineer | Mathematician in Training | Software Developer**  
 
-I specialise in **machine learning**, building models from scratch with a strong mathematical foundation.  
-Currently, I’m pursuing a **Licentiate Degree in Mathematics** to dive deeper into theoretical research and advance my work in AI and computational mathematics.  
+I specialise in **machine learning** and currently I’m pursuing a **Licentiate Degree in Mathematics** to dive deeper into theoretical research and advance my work in AI and computational mathematics.  
 
 ## 🔍 What I Do  
 - 🧠 **Machine Learning** – I enjoy building ML models from scratch, but I appreciate the value of high-level tools and use them as well!  
